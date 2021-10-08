@@ -5,4 +5,17 @@ h1 {
   h5 {
     margin: 25px 40px;
   }
+
+label {
+    margin: 10px 25px;
+}
+
+#group-by {
+    margin: 10px 25px;
+    width: 250px;
+}
+
+rect {
+    fill: brown
+}
   
