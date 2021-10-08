@@ -1,21 +1,23 @@
-h1 {
-    margin: 25px 25px;
-  }
-
-  h5 {
-    margin: 25px 40px;
-  }
 
 label {
-    margin: 10px 25px;
+    margin: 10px;
+}
+#group-by {
+    width: 250px;
+    margin: 10px; 
 }
 
-#group-by {
-    margin: 10px 25px;
-    width: 250px;
+button {
+    margin: 10px;
 }
+
 
 rect {
     fill: brown
+}
+
+svg {
+    margin-top: 25px;
+    margin-left: 150px;
 }
   
